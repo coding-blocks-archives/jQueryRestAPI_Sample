@@ -2,3 +2,27 @@
     color: grey;
     text-decoration: line-through;
 }
+.thumbnail img{
+margin-bottom: 15px;
+padding-left: 10px;
+
+}
+.spe{
+  
+    display: none;
+    border: solid 10px gray;
+    padding: 10px;
+}
+.albm{
+    display: none;
+     border: solid 10px gray;
+     margin-left:20px;
+     margin-right:20px;
+     padding-top: 10px;
+}
+.photosdem{
+    margin-bottom: 10px;
+}
+.com{
+    margin-bottom:10px;
+}
